@@ -30,6 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  NicovincX2
 
 excerpt_separator: <!--more-->
+collections:
+  weeknotes:
+    output: true
+    sort_by: name
+
 
 # Build settings
 theme: jekyll-theme-hacker
