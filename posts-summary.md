@@ -9,6 +9,8 @@ layout: default
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <!-- extrait du post, tout texte avant le séparateur configuré dans _config.yml -->
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
