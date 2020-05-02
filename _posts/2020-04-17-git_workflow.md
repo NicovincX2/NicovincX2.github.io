@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-categories: [git]
+categories: git
 title: git_workflow
 ---
 # Git
