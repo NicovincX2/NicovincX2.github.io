@@ -1,5 +1,4 @@
 ---
-toc: true
 layout: post
 categories: git
 title: git_workflow
