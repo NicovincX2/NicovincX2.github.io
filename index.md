@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to posts summary](./posts-summary.html).
+[Link to posts summary](./posts-summary.md).
 
 ---
 
